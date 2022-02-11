@@ -5,7 +5,7 @@
 1. Anaconda Distribution, with Jupyter Lab/Notebook along with libraries like Pandas, Matplotlib, Seaborn, Numpy, Tensorflow, OpenCV, Sci-Kit Learn, PIL, NLTK, Spacy, Plotly, Cufflinks etc.
 2. Make virtual environments for each of the projects, and install the pacakges mentioned in te import statements.
 
-### The Project Descriptions
+### The Projects' Descriptions
 
 - **Blue Pen Tracking** - Tracks a pen with a blue cap across the videocam, bu drawing streaks of color.
 - **Book Reviews** - Using a dataset from Kaggle, find the genre of book based on various features.
