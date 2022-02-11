@@ -1,0 +1,1 @@
+Download glove.6B.50d.txt from  https://nlp.stanford.edu/projects/glove/ and put it in your root directory.
