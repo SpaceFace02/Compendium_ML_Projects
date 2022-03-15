@@ -11,6 +11,7 @@
 - `source venv/bin/activate`
 - `pip install -r requirements.txt`
 - `python file.py or select the virtual env from jupyter notebook/lab.`
+- - `If using an IDE or code editor, be sure to change the python interpretor path to the python executable in the venv folder.`
 
 P.S If the source command doesn't work, then do the following in place of that:
 
