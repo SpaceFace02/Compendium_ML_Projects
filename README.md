@@ -5,6 +5,17 @@
 1. Anaconda Distribution, with Jupyter Lab/Notebook along with libraries like Pandas, Matplotlib, Seaborn, Numpy, Tensorflow, OpenCV, Sci-Kit Learn, PIL, NLTK, Spacy, Plotly, Cufflinks etc.
 2. Make virtual environments for each of the projects, and install the pacakges mentioned in te import statements.
 
+### Alternatively, you can install a virtual environment using a requirements.txt file in the project folder by using the following commands. First, cd into the base directory, with all the projects and run the following commands:
+
+- `python -m venv venv`
+- `source venv/bin/activate`
+- `pip install -r requirements.txt`
+- `python file.py or select the virtual env from jupyter notebook/lab.`
+
+P.S If the source command doesn't work, then do the following in place of that:
+
+- `cd venv\Scrips\activate.bat`
+
 ### The Projects' Descriptions
 
 - **Blue Pen Tracking** - Tracks a pen with a blue cap across the videocam, bu drawing streaks of color.
